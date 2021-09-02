@@ -1,0 +1,4 @@
+The JavaScript automates the updating process,
+the request for updated content is formatted in
+XML to make it understandable, and JavaScript again 
+refreshes the relevant content for the user viewing the page. 
